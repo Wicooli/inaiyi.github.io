@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Yi</title>
+    <link>https://example.com/categories/android/</link>
+    <description>Recent content in Android on Yi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>提升手机WIFI连接速度</title>
+      <link>https://example.com/2021/3/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/2021/3/</guid>
+      <description>主要有些厂家限制了WiFi的速度，导致不能正常发挥，默认速率为72Mbps，开启后达到150Mbps左右。 缺点：40MHz穿墙后没有默认的2</description>
+    </item>
+    
+  </channel>
+</rss>
